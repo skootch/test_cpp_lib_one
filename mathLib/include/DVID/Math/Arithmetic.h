@@ -2,7 +2,7 @@
 #define DVID_TEST_CPP_LIB_ONE_ARITHMETIC_H_
 
 namespace dvid {
-namespace arithmetic {
+namespace math {
 
 /**
  * Test addition method. Doesn't test for overflow or underflow (eg. -INT_MAX + -INT_MAX).
@@ -13,7 +13,7 @@ namespace arithmetic {
  */
 int add(int a, int b);
 
-} // namespace arithmetic
+} // namespace math
 } // namespace dvid
 
 #endif

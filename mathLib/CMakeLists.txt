@@ -1,4 +1,4 @@
 cmake_minimum_required(VERSION 3.1 FATAL_ERROR)
-project(MathLib LANGUAGES CXX)
+project(DVID_Math LANGUAGES CXX)
 
 add_subdirectory("src")

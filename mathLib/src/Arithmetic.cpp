@@ -1,11 +1,11 @@
-#include "Arithmetic.h"
+#include "DVID/Math/Arithmetic.h"
 
 namespace dvid {
-namespace arithmetic {
+namespace math {
 
 int add(int a, int b) {
     return a + b;
 }
 
-} // namespace arithmetic
+} // namespace math
 } // namespace dvid

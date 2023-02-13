@@ -1,3 +1,1 @@
-this is a readme
-
-second line
+A test C++ library.
